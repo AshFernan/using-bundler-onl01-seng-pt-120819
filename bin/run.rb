@@ -4,4 +4,4 @@ Hashie
 Sinatra
 Octokit
 Pry
-Awesomeprint
+AwesomePrint
